@@ -1,3 +1,4 @@
+package Function;
 import java.util.*;
 
 public class AllFunctions {

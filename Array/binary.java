@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 class binary{
     public static void main(){

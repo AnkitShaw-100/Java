@@ -1,3 +1,4 @@
+package Basic;
 import java.util.*;
 class sum{
     public static void main(){ 
